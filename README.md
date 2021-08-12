@@ -1,0 +1,2 @@
+# scoop-cmd
+Scoop manifests
