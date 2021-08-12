@@ -1,0 +1,15 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/artifacthub/hub/releases/download/v1.1.0/ah_1.1.0_windows_amd64.zip",
+            "bin": [
+                "ah.exe"
+            ],
+            "hash": "2101082ade7d63dc41d0eb60c1b63aa24b03dac2be249973383afef5fbe3f93e"
+        }
+    },
+    "homepage": "https://github.com/artifacthub/hub",
+    "license": "Apache-2.0",
+    "description": "Artifact Hub command line tool"
+}
