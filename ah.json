@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/artifacthub/hub/releases/download/v1.1.0/ah_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/artifacthub/hub/releases/download/v1.1.1/ah_1.1.1_windows_amd64.zip",
             "bin": [
                 "ah.exe"
             ],
-            "hash": "2101082ade7d63dc41d0eb60c1b63aa24b03dac2be249973383afef5fbe3f93e"
+            "hash": "6bce4c7b093755fb0a531c95b63c6c3e64fc33a1b2d3434bc6d43aa64d5c5beb"
         }
     },
     "homepage": "https://github.com/artifacthub/hub",
